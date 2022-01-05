@@ -1,6 +1,5 @@
 # Azure-Resume
-My Azure Resume, following ACG project Video.
- Project video was from madebygps tutorial video.
+My Azure Cloud Resume, following ACG project procedure.
 
 - The frontend folder contains the the website.
 - main.js contains the visitor counter code.
